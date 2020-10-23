@@ -37,7 +37,7 @@ This induction is currently free of charge and is provided on a voluntary basis 
 
 # Laser Cutter
 
-![glowforge-front](C:\Users\me\Documents\GitHub\bible\rooms\workshop\img\glowforge-front.png)
+![glowforge-front](img\glowforge-front.png)
 
 ![glowforge-rear](img\glowforge-rear.png)
 
@@ -70,7 +70,7 @@ The initially stated measure of success of the grant were:
 * Number of Inducted Persons 
 * Number of Published Build-Guides
 
-The inline power monitor (ESPURNA-B60BBA) is used to monitor the usage of the laser cutter. It is in the 'fixed-on' configuration so power should be switched from the rear of the laser-cutter.
+The inline power monitor ([ESPURNA-B60BBA](https://grafana.farsetlabs.org.uk/d/pBIm9WzGz/power-monitoring?orgId=1)) is used to monitor the usage of the laser cutter. It is in the 'fixed-on' configuration so power should be switched from the rear of the laser-cutter.
 
 ## The Rules
 
@@ -160,7 +160,9 @@ Before it could be 'officially' unveiled, COVID hit in 2020 and it was put to mu
 
 The [Anet A8](https://all3dp.com/1/anet-a8-3d-printer-review-diy-kit/) is a much simpler beast, and was purchased by a member and then donated to the charity in mid 2018.
 
-It is operated via an [OctoPrint](https://octoprint.org/) server hosted on a Raspberry Pi sitting beside it
+It is operated via an [OctoPrint](https://octoprint.org/) server hosted on a Raspberry Pi sitting beside it. 
+
+It's accessible onsite from [http://octopi.local](http://octopi.local) with the credentials `user:`:`clubmate`
 
 (it occasionally has a Microsoft LifeCam attached to it for [timelapses](https://www.youtube.com/watch?v=o6OuZbBSXiU))
 
