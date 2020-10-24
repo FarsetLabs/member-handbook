@@ -45,9 +45,9 @@ Inductions happen on a fortnightly basis.
 
 # Laser Cutter
 
-![glowforge-front](img\glowforge-front.png)
+![glowforge-front](img/glowforge-front.png)
 
-![glowforge-rear](img\glowforge-rear.png)
+![glowforge-rear](img/glowforge-rear.png)
 
 ![glowforge-view](img/glowforge-view.jpg)
 
@@ -61,7 +61,7 @@ The Unit has a case and glass lid that block harmful levels of infrared and UV l
 
 **If there appears to be any damage to the glass or the case, do not use the laser cutter and notify the management team immediately**
 
-Safety interlock switched on the front door turn off the laser immediately if the lid is opened. **Do not place magnetic or electromagnetic materials near the lid or doors**
+Safety interlock switches on the front door will turn off the laser immediately if the lid is opened. 
 
 ## The Context
 
@@ -88,8 +88,10 @@ The inline power monitor ([ESPURNA-B60BBA](https://grafana.farsetlabs.org.uk/d/p
 * **Do not** touch the head or arm of the laser cutter while the power is on; if you do by accident, restart the unit to prevent possible damage
 * **Do not** attempt to service, repair, modify, 'improve' or dismantle the unit
 * **Do not** attempt to access the internal wiring or any other sealed portion of the unit
+* **Do not** place magnetic or electromagnetic materials near the lid or doors
+  * This can interfere with the interlock system
 * **Do not** stack materials (i.e. to cut multiple 'copies' simultaneously) as this is a fire hazard
-* **Do not** place anything on top of the cutting bed of the unit
+* **Do not** place anything on top of the cutting area of the unit (i.e the lid)
   * Devices like phones, cameras and small items can safely be placed on the sides of the unit, but nothing should be placed on the glass door of the unit
 * **Do not** use the laser if the silver exhaust chute is not properly fitted either to the unit or to the external duct
 * **Always** clear and clean the cutting bed before and after every piece
