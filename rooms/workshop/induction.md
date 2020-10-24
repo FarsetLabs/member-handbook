@@ -17,6 +17,14 @@ This induction is currently free of charge and is provided on a voluntary basis 
 
 (Guests cannot induct others)
 
+## How to book an induction
+
+Inductions happen on a fortnightly basis.
+
+:calendar:[Book an appointment here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUw1ZG5SQmk3NlNlfGRlZmF1bHR8OWFhMTM0M2FiNDlkMjEwMmJjOTQ5YmQ3ZTA1MWFlNzk)
+
+'Exceptional' inductions can be arranged on a case by case basis by [inducted](inducted.md) individuals who are current members of Farset Labs.
+
 # General Workshop Guidance
 
 * Tidy up after yourself
