@@ -1,4 +1,4 @@
-# Farset Labs Bible
+# Farset Labs Member Handbook
 
 This is a Markdown focused repository for documenting the technical operations of Farset Labs infrastructure, systems, and integrations. 
 
