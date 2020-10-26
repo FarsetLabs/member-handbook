@@ -49,7 +49,9 @@ Tested on Cadburys Dark Milk. YMMV
 
 Settings contributed by @caolanxyz
 
-Tested on a Tesco Large Pumpkin. I used a very low pattern density @ 75 lines/cm to maximise speed as quality isnt a huge issue when you're lasering pumpkins. YMMV
+Tested on a slab of a Tesco Large Pumpkin with crumb tray removed.**Always place something below the pumpkin as it will make surfaces sticky**
+
+I used a very low pattern density @ 75 lines/cm to maximise speed as quality isnt a huge issue when you're lasering pumpkins. YMMV
 
 | Effect  | Speed | Power | Notes                           |
 | ------- | ----- | ----- | ------------------------------  |
