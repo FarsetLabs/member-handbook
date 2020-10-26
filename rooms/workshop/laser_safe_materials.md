@@ -33,7 +33,7 @@ The 'Engrave' and 'Score' settings can also be used for any cardboard covered 't
 
 ### Chocolate
 
-<img src="img/chocolate-laser.jpg" alt="chocolate_laser" style="zoom: 67%;" />
+<img src="img/chocolate-laser.jpg" alt="chocolate_laser" style="zoom: 33%;" />
 
 Settings contributed by @caolanxyz
 
