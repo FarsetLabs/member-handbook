@@ -15,6 +15,13 @@ A 'Meta-service' is an internal definition for 'things that involve lots of serv
 This includes things like environmental monitoring, 
 
 ## Contents
+- [Rooms](https://github.com/FarsetLabs/member-handbook/tree/master/rooms)
+  * [Workshop](https://github.com/FarsetLabs/member-handbook/tree/master/rooms/workshop)
+    + [Workshop Induction](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/induction.md)
+    + [Inducted Members](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/inducted.md)
+    + [Workshop Equipment](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/equipment.md)
+    + [Laser Safe Materials](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/laser_safe_materials.md)
+    + [3D Printer Materials](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/3d_printer_materials.md)
 - [Devices](https://github.com/FarsetLabs/member-handbook/tree/master/devices)
   * [UniFi Cloud Key](https://github.com/FarsetLabs/member-handbook/blob/master/devices/CloudKey.md)
   * [EmonPi](https://github.com/FarsetLabs/member-handbook/blob/master/devices/EmonPi.md)
@@ -24,13 +31,6 @@ This includes things like environmental monitoring,
 - [Environments](https://github.com/FarsetLabs/member-handbook/tree/master/environments)
   * [AWS](https://github.com/FarsetLabs/member-handbook/blob/master/environments/AWS.md)
   * [Azure](https://github.com/FarsetLabs/member-handbook/blob/master/environments/Azure.md)
-- [Rooms](https://github.com/FarsetLabs/member-handbook/tree/master/rooms)
-  * [Workshop](https://github.com/FarsetLabs/member-handbook/tree/master/rooms/workshop)
-    + [Workshop Induction](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/induction.md)
-    + [Inducted Members](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/inducted.md)
-    + [Workshop Equipment](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/equipment.md)
-    + [Laser Safe Materials](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/laser_safe_materials.md)
-    + [3D Printer Materials](https://github.com/FarsetLabs/member-handbook/blob/master/rooms/workshop/3d_printer_materials.md)
 - [Services](https://github.com/FarsetLabs/member-handbook/tree/master/services)
   * [Discourse](https://github.com/FarsetLabs/member-handbook/blob/master/services/Discourse.md)
   * [Docker](https://github.com/FarsetLabs/member-handbook/blob/master/services/Docker.md)
