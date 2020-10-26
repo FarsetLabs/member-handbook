@@ -35,7 +35,7 @@ The 'Engrave' and 'Score' settings can also be used for any cardboard covered 't
 
 <img src="img/chocolate-laser.jpg" alt="chocolate_laser" style="zoom: 67%;" />
 
-Settings contributed by @Caolan
+Settings contributed by @caolanxyz
 
 Tested on Cadburys Dark Milk. YMMV
 
@@ -43,6 +43,20 @@ Tested on Cadburys Dark Milk. YMMV
 | ------- | ----- | ----- | ------------------------------ |
 | Engrave | 1000  | 25    | Ensure 'Vary Power' is checked |
 
+### Pumpkin (Beta)
+
+<img src="img/pumpkin-laser.gif" alt="pumpkin_laser" style="zoom: 67%;" />
+
+Settings contributed by @caolanxyz
+
+Tested on a Tesco Large Pumpkin. I used a very low pattern density @ 75 lines/cm to maximise speed as quality isnt a huge issue when you're lasering pumpkins. YMMV
+
+| Effect  | Speed | Power | Notes                           |
+| ------- | ----- | ----- | ------------------------------  |
+| Engrave | 250   | Full  | Ensure 'Convert to Dots' is     |
+|         |       |       | checked. Depending on your wall |
+|         |       |       | thickness, you'll want to use   |
+|         |       |       | 2 or 3 passes.                  |
 
 
 # Really Properly Unsafe _Never Use Me_ materials, and why
