@@ -53,10 +53,7 @@ Tested on a Tesco Large Pumpkin. I used a very low pattern density @ 75 lines/cm
 
 | Effect  | Speed | Power | Notes                           |
 | ------- | ----- | ----- | ------------------------------  |
-| Engrave | 250   | Full  | Ensure 'Convert to Dots' is     |
-|         |       |       | checked. Depending on your wall |
-|         |       |       | thickness, you'll want to use   |
-|         |       |       | 2 or 3 passes.                  |
+| Engrave | 250   | Full  | Ensure 'Convert to Dots' is checked. Depending on your wall thickness, you'll want to use 2 or 3 passes.                  |
 
 
 # Really Properly Unsafe _Never Use Me_ materials, and why
