@@ -8,8 +8,8 @@
 | Robert Paul                | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | Richard Phillips           | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | Samer Dabra                | Andrew Bolster (@bolster)                                    | 23/10/20 |
-|                            |                                                              |          |
-|                            |                                                              |          |
+| @Tyndyll                   | Andrew Bolster (@bolster)                                    | 06/11/20 |
+| Stephen Gallagher          | Andrew Bolster (@bolster)                                    | 06/11/20 |
 |                            |                                                              |          |
 |                            |                                                              |          |
 |                            |                                                              |          |
