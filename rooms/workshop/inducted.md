@@ -10,7 +10,7 @@
 | Samer Dabra                | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | @Tyndyll                   | Andrew Bolster (@bolster)                                    | 06/11/20 |
 | Stephen Gallagher          | Andrew Bolster (@bolster)                                    | 06/11/20 |
-|                            |                                                              |          |
+| Weronika Ciborowska        | Artemiy Kondratiev (@art)                                    | 09/11/20 |
 |                            |                                                              |          |
 |                            |                                                              |          |
 |                            |                                                              |          |
