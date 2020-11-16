@@ -11,7 +11,7 @@
 | @Tyndyll                   | Andrew Bolster (@bolster)                                    | 06/11/20 |
 | Stephen Gallagher          | Andrew Bolster (@bolster)                                    | 06/11/20 |
 | Weronika Ciborowska        | Artemiy Kondratiev (@art)                                    | 09/11/20 |
-|                            |                                                              |          |
+| Aoibhinn Nic Aoidh         | Artemiy Kondratiev (@art)                                    | 16/11/20 |
 |                            |                                                              |          |
 |                            |                                                              |          |
 |                            |                                                              |          |
