@@ -12,11 +12,11 @@
 | Stephen Gallagher          | Andrew Bolster (@bolster)                                    | 06/11/20 |
 | Weronika Ciborowska        | Artemiy Kondratiev (@art)                                    | 09/11/20 |
 | Aoibhinn Nic Aoidh         | Artemiy Kondratiev (@art)                                    | 16/11/20 |
-| Caolan McKendry (@caolanxyz)| Andrew Bolster (@bolster)                                    | 20/11/20 |
+| Caolan McKendry (@caolanxyz)| Andrew Bolster (@bolster)                                   | 20/11/20 |
 | Jasmin Marker              | Andrew Bolster (@bolster)                                    | 20/11/20 |
 | Ben Bland                  | Andrew Bolster (@bolster)                                    | 20/11/20 |
-|                            |                                                              |          |
-|                            |                                                              |          |
+| Chris Green (@Chris Green) | Artemiy Kondratiev (@art)                                    | 20/05/21 |
+| Ranel Viala                | Artemiy Kondratiev (@art)                                    | 20/05/21 |
 |                            |                                                              |          |
 |                            |                                                              |          |
 |                            |                                                              |          |
