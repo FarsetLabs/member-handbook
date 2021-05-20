@@ -18,7 +18,7 @@
 | Chris Green (@Chris Green)  | Artemiy Kondratiev (@art)                                    | 20/05/21 |
 | Ranel Viala                 | Artemiy Kondratiev (@art)                                    | 20/05/21 |
 | Zan Dani (@Zan.Dani)        | Artemiy Kondratiev (@art)                                    | ??/??/21 |
-|                             |                                                              |          |
+| Carmel (@Carmel)            | Artemiy Kondratiev (@art)                                    | ??/??/21 |
 |                             |                                                              |          |
 |                             |                                                              |          |
 |                             |                                                              |          |
