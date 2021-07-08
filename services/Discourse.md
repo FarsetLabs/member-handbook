@@ -12,7 +12,7 @@ This service *could* be migrated to a Dockerised version but the resource requir
 
 * Killed old discourse VM's/Disks/IP's from Azure, 
 * Spun up new blank Ubuntu LTS image on D1v2
-* Used SSHkey from my account on Kitchensync as base key ID
+* Used SSHkey from `bolster` account on Kitchensync as base key ID
 * Followed [these](https://github.com/discourse/discourse/blob/master/docs/INSTALL-cloud.md) instructions, using the sendgrid as the SMTP relay
 * Configured Google OAuth under bolster@farsetlabs.org.uk -> Discourse project
 * Added [solved](https://github.com/discourse/discourse-solved), [assign](https://github.com/discourse/discourse-assign) [voting](https://github.com/discourse/discourse-voting), and [user-notes](https://github.com/discourse/discourse-user-notes) plugins
