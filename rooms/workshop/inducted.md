@@ -22,7 +22,7 @@
 | Rebecca Feeney (@Rebecca Feeney) | Artemiy Kondratiev (@art)                                    | ??/??/21 |
 | Naomi (@Naomi McGregor)          | Artemiy Kondratiev (@art)                                    | 08/12/21 |
 | Andy (@andyluke)                 | Artemiy Kondratiev (@art)                                    | 15/01/22 |
-|                                  |                                                              |          |
+| Ronan Duffy (@Ronan)             | Andrew Bolster (@bolster)                                    | 11/03/22 |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
