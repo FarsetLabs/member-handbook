@@ -15,6 +15,8 @@ A 'Meta-service' is an internal definition for 'things that involve lots of serv
 This includes things like environmental monitoring, 
 
 ## Contents
+- [New member survival kit](#)
+  - [Your first visit to the hackerspace](runbooks/your_first_visit.md)
 - [Rooms](rooms)
   * [Workshop](rooms/workshop)
     + [Workshop Induction](rooms/workshop/induction.md)
