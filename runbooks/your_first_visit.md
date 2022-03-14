@@ -2,6 +2,9 @@
 
 So, you just became a member and you're planning your first visit to the hackerspace! Our hackerspace is open 24/7/365, and you can come down any time. 
 
+* [door code]
+* [wi-fi]
+
 ## Part 1: Getting to the space
 
 Let's head down to the space, make a cup of tea, and go for a dander.
