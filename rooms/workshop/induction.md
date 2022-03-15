@@ -32,7 +32,7 @@ Inductions happen on a fortnightly basis.
   * Passive-aggressively shaming prior users is optional... but keep calm and [AGF](https://en.wikipedia.org/wiki/Wikipedia:Assume_good_faith)
 * Put any tools/equipment back where they belong
   * Not all tools have an obvious place where they should live, in which case, leave them back where you found them
-  * If you think there is a better place to put a particular tool, or a better way to arrange things, discuss it in the #facilities room on [Slack](https://slackin.farsetlabs.org.uk)
+  * If you think there is a better place to put a particular tool, or a better way to arrange things, discuss it in the #facilities room on [Slack](https://farsetlabs.slack.com)
 * Do not enter the workshop while under the influence of alcohol, recreational drugs, or medication that may impair your ability to work safely
 * If someone else is working in the workshop, ask if your planned work would impair their current work (first come first serve principle)
 
