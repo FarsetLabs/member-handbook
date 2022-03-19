@@ -71,6 +71,7 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 
 ## Tracking Links
 
+* [Town Halls of 2022](https://docs.google.com/document/d/1fvb1kxBd_TZJo-QdfG11KuPxgNsK4o5Py-0aeT3f4Xk/edit)
 * [Town Halls of 2021](https://docs.google.com/document/d/11co1l9OpJ2FhFd8uFoJ9vQT_EKxZeN86eaE6DEoSO8A/edit)
 
 
