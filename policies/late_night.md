@@ -27,6 +27,6 @@ While you may stay in the space till the small hours of the morning, do not expe
 
 ## Sleeping
 
-**Sleeping is not permitted in the space, regardless of time of day.** While there is often a temptation to just put the head down to work overnight, "You don't have to go home but you can't stay here.
+**Sleeping is not permitted in the space, regardless of time of day.** While there is often a temptation to just put the head down to work overnight, "You don't have to go home but you can't stay here".
 
 There *may* be exceptions made to this rule for some specific events such as hackathons etc, but those exceptions will be actively signposted ahead of the event.
