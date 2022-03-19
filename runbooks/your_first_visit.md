@@ -7,7 +7,7 @@ So, you just became a member and you're planning your first visit to the hackers
 
 ## Part 1: Getting to the space
 
-Let's head down to the space, make a cup of tea, and go for a dander.
+Let's head down to the space, make a cup of tea/coffee, and go for a dander.
 
 * You can walk, bike, scooter, take public transport, or drive to get to the hackerspace. Here's a rundown of relevant transport facilities.
   * Bike rack in the business park
@@ -19,19 +19,19 @@ Let's head down to the space, make a cup of tea, and go for a dander.
 
 Welcome to Farset Labs Hackerspace!
 
-## Part 2: Tea and wi-fi
+## Part 2: Tea/coffee and wi-fi
 
-So, now that you're in the space, let's make a cup of tea and go for a dander to check it out.
+So, now that you're in the space, let's make a cup of tea/coffee and go for a dander to check it out.
 
 * Head to the kitchen (downstairs/upstairs) and put on the kettle - there's shared tea, coffee and milk that members get from the local shop. 
-* While we're boiing the kettle, let's check in on social medie - you'll need the [wi-fi].
+* While we're boiing the kettle, let's check in on social media - you'll need the [wi-fi].
 * Once the kettle's boiled, grab a tea bag, any cup you see and some milk from the fridge. If we're out of something, pop in to the local shop to get some more.
 
 Now, let's go for that dander and have a look at what we've got in the hackerspace!
 
 ## Part 3: Going for a dander
 
-Tea in hand, you are free to roam the wildlands of the hackerspace - it's time to build your own adventure! Where will you go first?
+Tea/coffee in hand, you are free to roam the wildlands of the hackerspace - it's time to build your own adventure! Where will you go first?
 * Workshop
 * Event space
 * Tuckshop 
