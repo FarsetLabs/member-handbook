@@ -1,4 +1,11 @@
-# Bin Locations
+---
+layout: default
+title: Bins
+parent: Management
+nav_position: 2
+---
+
+# Bins
 
 To empty the bins, waste should be taken to the appropriate location below
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Discourse
+parent: Services
+nav_order: 1
+---
+
 # Discourse
 
 Discourse is our Forum platform, for longer term discussions and project documentation

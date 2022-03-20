@@ -1,3 +1,10 @@
+---
+layout: default
+title: EmonPi
+parent: Devices
+nav_order: 3
+---
+
 # EmonPi
 
 | Attribute         | Value                          | Notes |

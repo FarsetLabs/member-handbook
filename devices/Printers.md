@@ -1,3 +1,10 @@
+---
+layout: default
+title: Printers
+parent: Devices
+nav_order: 5
+---
+
 # Printers
 
 (The regular 2D kind)

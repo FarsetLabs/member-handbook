@@ -1,3 +1,10 @@
+---
+layout: default
+title: Amazon Pay by Invoice
+parent: Finance
+nav_order: 1
+---
+
 # Amazon Pay By Invoice
 
 ## Description

@@ -1,4 +1,11 @@
-# Your first visit to the hackerspace
+---
+layout: default
+title: Your First Visit
+parent: New Member Survival Kit
+nav_position: 1
+---
+
+# Your First Visit
 
 So, you just became a member and you're planning your first visit to the hackerspace! Our hackerspace is open 24/7/365, and you can come down any time. 
 

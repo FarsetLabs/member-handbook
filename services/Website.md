@@ -1,3 +1,10 @@
+---
+layout: default
+title: Website
+parent: Services
+nav_order: 9
+---
+
 # Website
 
 Farset's main website (https://www.farsetlabs.org.uk) is a [Jekyll](https://jekyllrb.com/)-built static site hosted by [GitHub pages](https://pages.github.com/) via it's own [repo](https://github.com/FarsetLabs/farsetlabs.github.io/).

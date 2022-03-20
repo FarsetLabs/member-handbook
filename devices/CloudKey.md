@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cloud Key
+parent: Devices
+nav_order: 1
+---
+
 # Cloud Key
 
 | Attribute | Value                    | Note |

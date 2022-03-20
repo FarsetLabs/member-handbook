@@ -1,3 +1,10 @@
+---
+layout: default
+title: KitchenSync
+parent: Devices
+nav_order: 4
+---
+
 # KitchenSync
 
 | Attribute              | Value                                                        | Notes                                   |
