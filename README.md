@@ -7,7 +7,7 @@ permalink: /
 
 # Member Handbook
 
-Farset Labs is a community funded and volunteer operated hackerspace, opened in 2012 as a place for creativity and technological tinkering. We’re open to everyone, no matter what you want to do, and we welcome people from all walks of life to use our space, come to our events, and get involved with the maker community in Northern Ireland.
+Your handy handbook to being a member of Farset Labs Hackerspace.
 {: .fs-6 .fw-300 }
 
 [Become a Member](https://farsetlabs.spaces.nexudus.com/){: .btn .btn-purple }
@@ -16,8 +16,6 @@ Farset Labs is a community funded and volunteer operated hackerspace, opened in 
 This is a Markdown focused repository for documenting the technical operations of Farset Labs infrastructure, systems, and integrations. 
 
 All documents should use relative linking.
-
-It's entirely possible this will be torn down and imported into a proper wiki system, but :man_shrugging:
 
 This is *not* a configuration management system, but is a handbook for operating and maintaining the digital infrastructure of the space/community
 
