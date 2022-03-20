@@ -1,3 +1,9 @@
+---
+layout: default
+title: Member Handbook
+nav_order: 1
+---
+
 # Member Handbook
 
 This is a Markdown focused repository for documenting the technical operations of Farset Labs infrastructure, systems, and integrations. 
