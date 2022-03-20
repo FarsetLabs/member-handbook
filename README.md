@@ -15,4 +15,4 @@ Your handy handbook to being a member of Farset Labs Hackerspace.
 
 In this handbook we cover everything from your first visit, to helping manage the hackerspace. So, depending on the area some content can be fairly technical. However, all writing should be clear enough for anyone to be able to pick up the handbook and figure things out without relying on tribal knowledge.
 
-All members are welcome and encourated to edit the handbook. If you want to learn about how to do it, check out [Just the Docs](https://github.com/just-the-docs/just-the-docs) documentation.
+Members are welcome and encourated to edit the handbook. If you want to learn about how to do it, check out [Just the Docs](https://github.com/just-the-docs/just-the-docs) documentation.
