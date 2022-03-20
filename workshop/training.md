@@ -30,7 +30,7 @@ Inductions happen on a fortnightly basis.
 
 :calendar:[Book an appointment here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUw1ZG5SQmk3NlNlfGRlZmF1bHR8OWFhMTM0M2FiNDlkMjEwMmJjOTQ5YmQ3ZTA1MWFlNzk)
 
-'Exceptional' inductions can be arranged on a case by case basis by [inducted](inducted.md) individuals who are current members of Farset Labs.
+'Exceptional' inductions can be arranged on a case by case basis by [trained](trained.md) individuals who are current members of Farset Labs.
 
 # General Workshop Guidance
 
@@ -149,7 +149,7 @@ Induction is certified by completing the following tasks (under supervision)
   - [ ] Scoring
   - [ ] Cutting
 - [ ] Is aware of the proper operation of the fume extraction system
-- [ ] Is aware of the [Laser Safe Materials](laser_safe_materials.md) list
+- [ ] Is aware of the [Laser Safe Materials](laser_cutter_materials.md) list
 
 # 3D Printers
 
