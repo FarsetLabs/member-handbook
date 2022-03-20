@@ -7,8 +7,8 @@ permalink: /
 
 # Member Handbook
 
-[Become a Member](https://farsetlabs.org.uk/membership){: .btn .btn-purple }
-[Learn to Edit the Handbook](https://just-the-docs.github.io/just-the-docs/){: .btn }
+[Become a Member](https://farsetlabs.spaces.nexudus.com/){: .btn .btn-purple }
+[Go to the Farset Labs Website](https://just-the-docs.github.io/just-the-docs/){: .btn }
 
 This is a Markdown focused repository for documenting the technical operations of Farset Labs infrastructure, systems, and integrations. 
 
