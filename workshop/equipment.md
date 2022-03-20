@@ -9,9 +9,9 @@ nav_order: 3
 
 ## Major Equipment
 
-All equipment listed in this section require [Induction](induction.md) before members are permitted to use them.
+All equipment listed in this section require [Training](training.md) before members are permitted to use them.
 
-Permitted users are listed in the [Inducted](inducted.md) list, along with who inducted them.
+Permitted users are listed in the [Trained](trained.md) list, along with who inducted them.
 
 | Name             | Type           | Notes / Status                                |
 | ---------------- | -------------- | --------------------------------------------- |

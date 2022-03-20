@@ -20,7 +20,7 @@ This induction is currently free of charge and is provided on a voluntary basis 
 
 ## Who can induct people into the use of the Workshop
 
-* Currently [Inducted](inducted.md) Farset Labs Members
+* Currently [Trained](trained.md) Farset Labs Members
 
 (Guests cannot induct others)
 
@@ -91,7 +91,7 @@ The inline power monitor ([ESPURNA-B60BBA](https://grafana.farsetlabs.org.uk/d/p
 
 * **Do not** leave the laser cutter unattended when in operation
   * Most cuts are relatively fast anyway (<30min for A4 engraving) 
-* **Do not** put **any** material in the laser cutter bed that you are not **positive** is [laser safe](laser_safe_materials.md)
+* **Do not** put **any** material in the laser cutter bed that you are not **positive** is [laser safe](laser_cutter_materials.md)
 * **Do not** touch the head or arm of the laser cutter while the power is on; if you do by accident, restart the unit to prevent possible damage
 * **Do not** attempt to service, repair, modify, 'improve' or dismantle the unit
 * **Do not** attempt to access the internal wiring or any other sealed portion of the unit
