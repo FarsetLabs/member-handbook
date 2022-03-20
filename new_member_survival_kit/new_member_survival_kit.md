@@ -1,7 +1,7 @@
 ---
 layout: default
 title: New Member Survival Kit
-nav_position: 7
+nav_position: 2
 has_children: true
 ---
 
