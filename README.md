@@ -2,6 +2,7 @@
 layout: default
 title: Member Handbook
 nav_order: 1
+permalink: /
 ---
 
 # Member Handbook
