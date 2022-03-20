@@ -39,7 +39,7 @@ Now, let's go for that dander and have a look at what we've got in the hackerspa
 ## Part 3: Going for a dander
 
 Tea/coffee in hand, you are free to roam the wildlands of the hackerspace - it's time to build your own adventure! Where will you go first?
-* [Workshop](/workshop)
+* [Workshop](../workshop/workshop.md)
 * Event space
 * Tuckshop 
 * Kitchen
