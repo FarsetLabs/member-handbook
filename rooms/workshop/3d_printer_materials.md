@@ -1,3 +1,0 @@
-## BLAME BOLSTER FOR NOT WRITING THIS YET
-
-Got any suggestions?

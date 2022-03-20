@@ -1,3 +1,10 @@
+---
+layout: default
+title: Trained
+parent: Workshop
+nav_order: 2
+---
+
 # The Inducted List
 
 | Name / Recognisable Handle       | Inducted By                                                  | Date     |

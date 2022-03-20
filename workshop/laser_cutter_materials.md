@@ -1,4 +1,11 @@
-# Laser Safe Materials
+---
+layout: default
+title: Laser Cutter Materials
+parent: Workshop
+nav_order: 5
+---
+
+# Laser Cutter Materials
 
 Lasers are fun, but not everything can or should be used for laser cutting/engraving. 
 

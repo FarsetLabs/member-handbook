@@ -1,3 +1,10 @@
+---
+layout: default
+title: Equipment
+parent: Workshop
+nav_order: 3
+---
+
 # Equipment
 
 ## Major Equipment

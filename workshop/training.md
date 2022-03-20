@@ -1,3 +1,10 @@
+---
+layout: default
+title: Training
+parent: Workshop
+nav_order: 1
+---
+
 # Workshop Induction
 
 The workshop induction program is there to ensure a new users can use the [Workshop Equipment](equipment.md) safely and effectively.
