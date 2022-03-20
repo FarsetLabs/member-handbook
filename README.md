@@ -12,7 +12,7 @@ This is *not* a configuration management system, but is a handbook for operating
 
 A 'Meta-service' is an internal definition for 'things that involve lots of services working together' that makes it slightly less confusing to document at a high level... 
 
-This includes things like environmental monitoring, 
+This includes things like environmental monitoring.
 
 ## Contents
 - [New member survival kit](#)
