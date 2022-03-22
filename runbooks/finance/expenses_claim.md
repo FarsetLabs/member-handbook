@@ -18,7 +18,7 @@
 
 ## If you do not have a Xero account
 
-- Photos of receipts should be emailed to [tresurer@farsetlabs.org.uk](mailto:tresurer@farsetlabs.org.uk) along with project/expense class justification.
+- Photos of receipts should be emailed to [treasurer@farsetlabs.org.uk](mailto:treasurer@farsetlabs.org.uk) along with project/expense class justification.
 - All photographs of receipts must be clear, and show the entire face of the receipt. If there are terms and conditions on the reverse of the receipt, this must also be photographed.
 - If an expenses claim is submitted correctly, then on receipt of an email notification Farset Labs will endeavour to repay approved expenses within seven days.
 
