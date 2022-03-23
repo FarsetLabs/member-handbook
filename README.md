@@ -19,4 +19,4 @@ Members are welcome and encourated to edit the handbook. If you want to learn ab
 
 ## Contributors
 
-[![](https://github.com/farsetlabs/member-handbook/graphs/contributors)](https://contrib.rocks/image?repo=farsetlabs/member-handbook)
+[![](https://contrib.rocks/image?repo=farsetlabs/member-handbook)](https://github.com/farsetlabs/member-handbook/graphs/contributors)
