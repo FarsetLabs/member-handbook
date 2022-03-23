@@ -19,18 +19,4 @@ Members are welcome and encourated to edit the handbook. If you want to learn ab
 
 ## Contributors
 
-{% comment %}Using the jekyll-github-metadata plugin included with github-pages.{% endcomment %}
-{% comment %}These assignments will randomise the order of listing contributors on deployment.{% endcomment %}
-{% assign number_of_contributors = site.github.contributors | size %}
-{% assign contributors = site.github.contributors | sample: number_of_contributors %}
-
-{% for contributor in contributors %}
-![]({{contributors.avatar_url}})
-[{{contributor.login}}]({{contributor.html_url}})
-{% endfor %}
-
-## Contributors
-
-<a href="https://github.com/farsetlabs/member-handbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=farsetlabs/member-handbook"/>
-</a>
+[![](https://github.com/farsetlabs/member-handbook/graphs/contributors)](https://contrib.rocks/image?repo=farsetlabs/member-handbook)
