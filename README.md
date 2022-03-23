@@ -31,6 +31,6 @@ Members are welcome and encourated to edit the handbook. If you want to learn ab
 
 ## Contributors
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href="https://github.com/farsetlabs/member-handbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=farsetlabs/member-handbook"/>
 </a>
