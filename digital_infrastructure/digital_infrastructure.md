@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Infrasctucture
+title: Digital Infrastructure
 has_children: true
 ---
 
