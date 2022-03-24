@@ -7,4 +7,6 @@ has_children: true
 
 # Workshop
 
-Lean, make and share in the workshop!
+![](img/workshop.jpg)
+
+Learn, make and share in the workshop!
