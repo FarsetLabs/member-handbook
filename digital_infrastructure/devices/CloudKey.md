@@ -2,6 +2,7 @@
 layout: default
 title: Cloud Key
 parent: Devices
+grand_parent: Digital Infrastructure
 nav_order: 1
 ---
 

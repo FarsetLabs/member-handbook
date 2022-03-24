@@ -2,6 +2,7 @@
 layout: default
 title: SSH
 parent: Services
+grand_parent: Digital Infrastructure
 nav_order: 6
 ---
 

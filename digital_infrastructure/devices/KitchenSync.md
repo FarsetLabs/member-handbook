@@ -2,6 +2,7 @@
 layout: default
 title: KitchenSync
 parent: Devices
+grand_parent: Digital Infrastructure
 nav_order: 4
 ---
 

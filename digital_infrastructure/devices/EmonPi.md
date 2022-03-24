@@ -2,6 +2,7 @@
 layout: default
 title: EmonPi
 parent: Devices
+grand_parent: Digital Infrastructure
 nav_order: 3
 ---
 

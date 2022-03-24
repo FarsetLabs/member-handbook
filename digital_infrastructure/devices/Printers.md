@@ -2,6 +2,7 @@
 layout: default
 title: Printers
 parent: Devices
+grand_parent: Digital Infrastructure
 nav_order: 5
 ---
 

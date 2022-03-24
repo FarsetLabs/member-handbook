@@ -2,6 +2,7 @@
 layout: default
 title: Discourse
 parent: Services
+grand_parent: Digital Infrastructure
 nav_order: 1
 ---
 

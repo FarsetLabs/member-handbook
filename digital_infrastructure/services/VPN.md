@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Unifi
+title: VPN
 parent: Services
+grand_parent: Digital Infrastructure
 nav_order: 8
 ---
 
-# Unifi
+# VPN
