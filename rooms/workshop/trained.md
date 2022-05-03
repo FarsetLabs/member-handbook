@@ -31,8 +31,8 @@ nav_order: 2
 | Naomi (@Naomi McGregor)          | Artemiy Kondratiev (@art)                                    | 08/12/21 |
 | Andy (@andyluke)                 | Artemiy Kondratiev (@art)                                    | 15/01/22 |
 | Ronan Duffy (@Ronan)             | Andrew Bolster (@bolster)                                    | 11/03/22 |
-|                                  |                                                              |          |
-|                                  |                                                              |          |
+| David Kane                       | Richard Phillips (@richard)                                  | 02/05/22 |
+| Alan Ferguson                    | Richard Phillips (@richard)                                  | 02/05/22 |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
