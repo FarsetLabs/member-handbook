@@ -31,7 +31,7 @@ nav_order: 2
 | Naomi (@Naomi McGregor)          | Artemiy Kondratiev (@art)                                    | 08/12/21 |
 | Andy (@andyluke)                 | Artemiy Kondratiev (@art)                                    | 15/01/22 |
 | Ronan Duffy (@Ronan)             | Andrew Bolster (@bolster)                                    | 11/03/22 |
-|                                  |                                                              |          |
+| Chris Woofenden                  | Andrew Bolster (@bolster)                                    | 07/05/22 |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
