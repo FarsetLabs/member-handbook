@@ -14,7 +14,7 @@ nav_order: 2
 | James Leech                      | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | Artemiy Kondratiev (@art)        | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | Robert Paul                      | Andrew Bolster (@bolster)                                    | 23/10/20 |
-| Richard Phillips                 | Andrew Bolster (@bolster)                                    | 23/10/20 |
+| Richard Phillips (@richard)      | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | Samer Dabra                      | Andrew Bolster (@bolster)                                    | 23/10/20 |
 | @Tyndyll                         | Andrew Bolster (@bolster)                                    | 06/11/20 |
 | Stephen Gallagher                | Andrew Bolster (@bolster)                                    | 06/11/20 |
@@ -33,6 +33,8 @@ nav_order: 2
 | Ronan Duffy (@Ronan)             | Andrew Bolster (@bolster)                                    | 11/03/22 |
 | David Kane                       | Richard Phillips (@richard)                                  | 02/05/22 |
 | Alan Ferguson                    | Richard Phillips (@richard)                                  | 02/05/22 |
+| Chris Woofenden                  | Andrew Bolster (@bolster)                                    | 07/05/22 |
+|                                  |                                                              |          |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
 |                                  |                                                              |          |
