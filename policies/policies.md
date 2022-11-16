@@ -3,7 +3,6 @@ layout: default
 title: Policies
 nav_position: 4
 has_children: true
-
 ---
 
 # Policies
@@ -25,12 +24,10 @@ The policies should also largely be 'stand alone' documents, without too many cr
 * [Financial Management](financial_management.md) and [Reserves](reserves.md)
 * [CCTV](cctv.md)
 * [Risk Assessments](risk_assessments/README.md)
-
+  
 ### The Community
 
 * [Terms of Membership](terms_of_membership.md)
 * [Late Night Working](late_night.md)
-
 * [ ] Health and Safety
-
 * 

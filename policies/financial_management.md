@@ -1,20 +1,27 @@
+---
+layout: default
+title: Financial Management
+parent: Policies
+---
+
 # Financial Planning and Management
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
 
 Next Review: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
 
-Designated Finance Lead: Dylan Wylie, dylan@farsetlabs.org.uk
+Designated Finance Lead: Andrew Bolster <treasurer@farsetlabs.org.uk>
 
 ## Financial Records and Accounts
 
 1. Financial records must be kept so that:
-  
+   
    - The organisation meets its legal and other statutory obligations, such as Charity Acts, Her Majesty's Revenue & Customs and common law.
    - The trustees have proper financial control of the organisation.
    - The organisation meets the contractual obligations and requirements of funders, donors, and the commuity writ large
 
 2. The books of accounts must include:
+   
    - A cashbook analysing all the transactions appearing on the bank accounts
    - A petty cash book if cash payments are being made (NB; Farset Labs does not currently operate a petty cash book but the trustees may at any point choose to temporarily use one).
    - Inland Revenue deduction cards P11 (if registered for PAYE)
@@ -30,14 +37,14 @@ Designated Finance Lead: Dylan Wylie, dylan@farsetlabs.org.uk
 ## Banking
 
 1. The Charity will bank with Danske Bank plc at its Business Banking Branch and accounts will be held in the name of "Farset Labs". The following accounts will be maintained:
-
+   
    - Danske Charity Account
 
-1. The bank mandate (list of people who can sign cheques on the organisations behalf) will always be approved and minuted by the trustees as will any changes to it.
+2. The bank mandate (list of people who can sign cheques on the organisations behalf) will always be approved and minuted by the trustees as will any changes to it.
 
-1. The charity will require the bank to provide statements every month and these will be reconciled with the cash book at least every three months and the treasurer will spot check that this reconciliation has been done at least twice a year, signing the cash book accordingly.
+3. The charity will require the bank to provide statements every month and these will be reconciled with the cash book at least every three months and the treasurer will spot check that this reconciliation has been done at least twice a year, signing the cash book accordingly.
 
-1. The charity will not use any other bank or financial institution or use overdraft facilities or loan without of the agreement of the trustees.
+4. The charity will not use any other bank or financial institution or use overdraft facilities or loan without of the agreement of the trustees.
 
 ## Purchasing & Expenses
 
@@ -96,5 +103,3 @@ The repayment table for travel expenses is shown below.
 | Public Transport  | Lowest cost up to £50 (Per person)     |
 | Private Car       | Up to £50 @ £0.45 / mile (Per vehicle) |
 | Taxis             | Up to £20 @ £2.50 / mile (Per vehicle) |
-
-

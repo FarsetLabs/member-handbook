@@ -1,6 +1,15 @@
+---
+
+layout: default
+title: CCNI Annual Reporting
+parent: Statory Reports
+grandparent: Runbooks
+
+---
+
 # CCNI Annual Reporting
 
-## Requirements 
+## Requirements
 
 [Farset Labs' company secretary is required to submit an Annual Report to the Charities Commission for Northern Ireland](https://www.charitycommissionni.org.uk/manage-your-charity/annual-reporting/)
 

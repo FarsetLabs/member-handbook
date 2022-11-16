@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Membership
+parent: Policies
+---
+
 # Terms of Membership
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
@@ -12,7 +18,7 @@ The Charity’s objects (“Objects”) are the education of the public in STEAM
 
 See [here](articles_of_association.md) for more information.
 
-## Membership 
+## Membership
 
 Membership of Farset Labs gives you one vote in matters arising at any annual or extraordinary general meeting. This includes changes to the constitution, appointing or removing the charity trustees, and deciding whether the charity should be wound up. 
 
@@ -35,8 +41,6 @@ Unless otherwise agreed by members, no members will receive a fee or discount to
 - Members are fully responsible for the actions of their guests whilst in the building
 - Members are responsible for replacing any broken or damaged property caused by member or member’s guests.
 - All areas of the building are subject to inspection by the building owners at any time and must provide 24hrs notice before doing so unless deemed an emergency. 
-
-
 
 ## Shared Spaces & Facilities for hire
 
@@ -96,18 +100,17 @@ The trustees will try and mediate disputes should that become necessary.
 
 ## Culture and Ethos
 
- * Be Excellent to each other;
- * Don't disturb those who do not want to be disturbed;
- * If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
- * [Intolerance will not be tolerated](equality.md).
+* Be Excellent to each other;
+* Don't disturb those who do not want to be disturbed;
+* If you see something and it doesn't look right or safe, it probably isn't so ask/tell someone about it;
+* [Intolerance will not be tolerated](equality.md).
 
 ## Handling of Complaints and Breaches
 
- * All members should endeavour to resolve minor personal issues directly with the persons involved;
- * If this is not possible, the following general approach is to be applied;
-   * Raise a complaint to admin@farsetlabs.org.uk detailing the issue and the persons involved. Reports may be anonymously filed but this will slow the response, as the board will first have to corroborate the claims raised.
-   * The issue trigger an Extraordinary Board meeting meeting and, at that boards discretion, directly with the persons involved.
-   * After at most two weeks, a response will be issued by a member of the management board that may result in a warning or subsequent expulsion of those involved.
-   * In the case of "minor infractions", a right to reply to the judgements of the board is permitted, and the board will respond to reasonable requests for explanation.
-   * The board reserves the right to unilaterally and without any right to reply to permanently ban anyone who, through negligence or malice, endangers or risks endangering guests, members, the facility, or the charity. 
-
+* All members should endeavour to resolve minor personal issues directly with the persons involved;
+* If this is not possible, the following general approach is to be applied;
+  * Raise a complaint to admin@farsetlabs.org.uk detailing the issue and the persons involved. Reports may be anonymously filed but this will slow the response, as the board will first have to corroborate the claims raised.
+  * The issue trigger an Extraordinary Board meeting meeting and, at that boards discretion, directly with the persons involved.
+  * After at most two weeks, a response will be issued by a member of the management board that may result in a warning or subsequent expulsion of those involved.
+  * In the case of "minor infractions", a right to reply to the judgements of the board is permitted, and the board will respond to reasonable requests for explanation.
+  * The board reserves the right to unilaterally and without any right to reply to permanently ban anyone who, through negligence or malice, endangers or risks endangering guests, members, the facility, or the charity. 

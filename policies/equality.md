@@ -1,3 +1,9 @@
+---
+layout: default
+title: Equality
+parent: Policies
+---
+
 # Equal Opportunities Policy
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
@@ -36,7 +42,7 @@ This policy applies to all those who are assigned a role within the organisation
 * Members.
 * Non-member volunteers participating in Farset Labs programmes
 
-#  Equality commitments
+# Equality commitments
 
 We are committed to:
 
@@ -48,7 +54,7 @@ We are committed to:
 * Taking lawful affirmative or positive action, where appropriate.
 * Regarding all breaches of equal opportunities policy as misconduct which could lead to disciplinary proceedings.
 
-#  Implementation
+# Implementation
 
 The Trustees have responsibility for the effective implementation of this policy. Each Member also has responsibilities and we expect all our Members to abide by the policy and help create the equality environment which is its objective.
 
@@ -62,13 +68,13 @@ In order to implement this policy we shall:
 * Obtain commitments from other persons or organisations such as subcontractors or agencies that they too will comply with the policy in their dealings with our organisation and our workforce.
 * Ensure that adequate resources are made available to fulfil the objectives of the policy.
 
-#  Monitoring and review
+# Monitoring and review
 
 We will establish appropriate information and monitoring systems to assist the effective implementation of our equal opportunities policy.
 
 The effectiveness of our equal opportunities policy will be reviewed regularly – at least every 3 years – and action taken as necessary. For example, where monitoring identifies an under-representation of a particular group or groups, we shall develop an action plan to address the imbalance.
 
-#  Complaints
+# Complaints
 
 Members who believe that they have suffered any form of discrimination, harassment or victimisation are entitled to raise the matter through the agreed procedures, as stated in Member documentation. A copy of these procedures is available from the Directors. All complaints of discrimination will be dealt with seriously, promptly and confidentially.
 
@@ -97,15 +103,15 @@ For further information please contact:
 **Equality Commission for Northern Ireland**
 
 > Enquiry Line: 028 90 890 890 (for all information & advice enquiries)
->
+> 
 > Address: Equality House, 7-9 Shaftesbury Square, Belfast BT2 7DP
->
+> 
 > Tel: 028 90 500 600 (Reception/Switchboard)
->
+> 
 > Textphone: 028 90 500 589
->
+> 
 > Fax: 028 90 248 687
->
+> 
 > Email: [information@equalityni.org](mailto:information@equalityni.org)
->
+> 
 > [Website](

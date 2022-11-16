@@ -1,3 +1,9 @@
+---
+layout: default
+title: Articles of Association
+parent: Policies
+---
+
 # Articles of Association
 
 > The full articles of association for the charity are 90% Companies House boiler plate, and the admin-editable document is [here](https://docs.google.com/document/d/1ncM55ymg2mu383W0bEDQUGdbQkaCwRt-KzA0WpQgFtc/edit) for any future adjustments to the Articles, and [here](articles_of_association.pdf) for a version suitable for accessory funding documentation.

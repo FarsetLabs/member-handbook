@@ -21,4 +21,3 @@ A 433MHz bridge and sensor node for an Open Energy Monitor system (currently pri
 Also the primary host for the emon-related MQTT broker, which [forward-bridges](https://community.openenergymonitor.org/t/integration-with-custom-mqtt-broker/13359/3?u=bolster) to the main [MQTT](../services/MQTT.md) broker
 
 See [EmonHub](../services/EmonHub.md) for more information
-

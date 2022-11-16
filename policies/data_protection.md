@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Protection
+parent: Policies
+---
+
 # Data Protection Policy
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
@@ -9,8 +15,6 @@ Designated Data Protection Officer: Andrew Bolster, bolster@farsetlabs.org.uk, M
 ## Policy Statement
 
 Farset Labs take the safety of our members and visitors private digital information seriously. We do not use or trade our members’ / visitors’ contact information, event attendance, or any data transit activity for any marketing related or commercial purposes. In this document we outline what information we collect on our members and visitors, how we use it, the limited conditions when we may disclose it and how we keep that information secure.
-
-
 
 ## Types of Data We Collect
 
@@ -39,8 +43,6 @@ Farset Labs is committed to the ideals of freedom and transparency in the online
 When people visit our website we use Google Analytics to collect and log standard metadata around visitor behaviour patterns. We do this to log the number of visitors to the different parts of our site. This information is anonymised and we do not make, nor allow Google to make, any attempt to find out the identities of people visiting our website.
 
 As part of the normal operation of our Ubiquity core network, association and aggregate-activity information is passively collected. This per-device information is retained for **30days.**
-
-
 
 # Access to your Personal Information
 
