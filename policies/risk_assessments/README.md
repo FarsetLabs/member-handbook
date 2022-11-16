@@ -1,3 +1,10 @@
+---
+layout: default
+title: Risk Assessments
+parent: Policies
+has_children: true
+---
+
 # Risk Assessments
 
 To protect our community, the charity has a duty of care to responsibly review the safety of the operation of particular systems or equipment. 

@@ -32,5 +32,3 @@ The policies should also largely be 'stand alone' documents, without too many cr
 * [Late Night Working](late_night.md)
 
 * [ ] Health and Safety
-
-* 

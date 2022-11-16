@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Annual Company Accounts
-parent: Statory Reports
-grandparent: Runbooks
+parent: Statutory Reports
+grand_parent: Runbooks
 ---
 
 # Annual Company Accounts

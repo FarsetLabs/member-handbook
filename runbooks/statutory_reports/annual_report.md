@@ -1,10 +1,8 @@
 ---
-
 layout: default
 title: CCNI Annual Reporting
-parent: Statory Reports
-grandparent: Runbooks
-
+parent: Statutory Reports
+grand_parent: Runbooks
 ---
 
 # CCNI Annual Reporting

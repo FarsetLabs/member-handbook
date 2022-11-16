@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Companies House Confirmation Statement
-parent: Statory Reports
-grandparent: Runbooks
+parent: Statutory Reports
+grand_parent: Runbooks
 ---
 # Confirmation Statement
 

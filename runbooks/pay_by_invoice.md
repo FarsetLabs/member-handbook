@@ -1,26 +1,12 @@
 ---
 layout: default
-title: Finance
-parent: Management
-nav_order: 1
+title: Amazon Pay-By-Invoice
+parent: Runbooks
 ---
 
-# Finance
+# Amazon Pay By Invoice
 
-## Accounts Associated with FSL Finance
-
-### Andrew Bolster's Card
-
-* Azure
-* AWS
-* Amazon Online (may only be for bolster@farsetlabs.org.uk)
-* Meetup (events@farsetlabs.org.uk)
-* Name.com (registrar for farsetlabs.[org.uk|com|net])
-* Xero
-
-## Amazon Pay By Invoice
-
-### Description
+## Description
 
 Process for paying and reconciling Amazon Pay By Invoice accounts
 
@@ -28,7 +14,7 @@ To be performed by board representatives/trustees on a regular (monthly?) basis
 
 Amazon will send reminder emails, and there are no immediate penalties for balances going past due, so this a _low stress_ process
 
-### Process
+## Process
 
 1. Log in to an Amazon Business account associated with Farset Labs
 2. Navigate to the ["Your Invoices for Pay By Invoice"](https://www.amazon.co.uk/b2b/invoices?ref_=abp_pbi_redirect_to_your_invoices&groupId=A5J4K9O6WVGF3)  page in Business Settings

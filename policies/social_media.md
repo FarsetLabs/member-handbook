@@ -3,6 +3,7 @@ layout: default
 title: Social Media
 parent: Policies
 ---
+# Social Media Policy 
 
 Using Farset Lab's social media channels — appropriate conduct
 
@@ -24,22 +25,22 @@ Using Farset Lab's social media channels — appropriate conduct
 
 9. Be honest. Say what you know to be true or have a good source for. If you've made a mistake, don't be afraid to admit it.
 
-10. Staff should refrain from offering personal opinions via Farset Lab's social media accounts, either directly by commenting or indirectly by 'liking', 'sharing' or 'retweeting'. If you are in doubt about Farset Lab's position on a particular issue, please speak to [team name].
+10. Staff should refrain from offering personal opinions via Farset Lab's social media accounts, either directly by commenting or indirectly by 'liking', 'sharing' or 'retweeting'. If you are in doubt about Farset Lab's position on a particular issue, please speak to The Board of Trustees.
 
-11. It is vital that Farset Lab does not encourage others to risk their personal safety or that of others, to gather materials. For example, a video of a stunt. 
+11. It is vital that Farset Lab does not encourage others to risk their personal safety or that of others, to gather materials. For example, a video of a stunt.
 
 12. Staff should not encourage people to break the law to supply material for social media, such as using unauthorised video footage. All relevant rights for usage must be obtained before publishing material.
 
 13. Staff should not set up other Facebook groups or pages, Twitter accounts or any other social media channels on behalf of Farset Lab. This could confuse messaging and brand awareness. By having official social media accounts in place, the [team name] can ensure consistency of the brand and focus on building a strong following.
 
-14. [Charity name] is not a political organisation and does not hold a view on party politics or have any affiliation with or links to political parties. We have every right to express views on policy, including the policies of parties, but we can't tell people how to vote.
+14. Farset Labs is not a political organisation and does not hold a view on party politics or have any affiliation with or links to political parties. We have every right to express views on policy, including the policies of parties, but we can't tell people how to vote.
 
-15. If a complaint is made on Farset Lab's social media channels, staff should seek advice from the [job title i.e. head of communications] before responding. If they are not available, then staff should speak to the [job title i.e. director of communications].
+15. If a complaint is made on Farset Lab's social media channels, staff should seek advice from the Board of Trustees before responding. If they are not available, then staff should speak to the Chairperson directly.
 
-16. Sometimes issues can arise on social media which can escalate into a crisis situation because they are sensitive or risk serious damage to the charity's reputation. Examples might include: [include example crisis situations for your charity]. The nature of social media means that complaints are visible and can escalate quickly. Not acting can be detrimental to the charity. 
+16. Sometimes issues can arise on social media which can escalate into a crisis situation because they are sensitive or risk serious damage to the charity's reputation. The nature of social media means that complaints are visible and can escalate quickly. Not acting can be detrimental to the charity.
 
-The Secretary will regularly monitor our social media spaces for mentions of Farset Lab so we can catch any issues or problems early. If there is an issue that could develop or has already developed into a crisis situation, the secretary will do the following: [add in your crisis management plan]. 
+The Secretary will regularly monitor our social media spaces for mentions of Farset Lab so we can catch any issues or problems early.
 
 If any members become aware of any comments online that they think have the potential to escalate into a crisis, whether on Farset Lab's social media channels or elsewhere, they should speak to the Trustees immediately.
 
-_Based on CharityComms.org.uk [Template](https://www.charitycomms.org.uk/social-media-policy-template)_
+_Based on CharityComms.org.uk [Template](https://www.charitycomms.org.uk/social-media-policy-template)
