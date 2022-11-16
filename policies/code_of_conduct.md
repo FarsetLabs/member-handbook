@@ -1,3 +1,9 @@
+---
+layout: default
+title: Code of Conduct
+parent: Policies
+---
+
 # Code of Conduct
 
 This document contains the expected behaviours and obligations that members of Farset Labs are associated with, in addition to a list of banned behaviour and materials. This document references itself as “the Code”, and the “Code of Conduct”. The primary location of Farset Labs is referred to as “the space”, “Farset Labs”, and “Farset Labs property”.
@@ -24,17 +30,17 @@ Farset Labs is not to be a pasture for red tape, and so this document should alw
 
 When the Code is applicable, all members and visitors must:
 
-  1. Keep their behaviour lawful;
-  2. Employ common sense and restraint when working with machinery and electrical/power tools;
-_If members have not used a piece of machinery before, they must be briefed on how to properly use it, to avoid personal injury and damage to property. In addition, common sense should be used when involved in projects, and uses of machinery must be safe and reasonable._
-  3. Allow members and visitors to proceed with their work without harassment or interference;
-_Members should not interfere or move others’ equipment or projects, unless they have been abandoned or the member has left the space. In addition, when a member asks for peace to work on their project uninterrupted, others should not bother them unless necessary._
-  4. Comply to the relevant statutory requirements for health and safety;
-_Members must be aware of the statutory requirements for working with power tools, electrics, electronics and mechanical equipment; these are available on request from Farset Labs. These requirements must be met before commencing work._
-  5. Respect others’ work and materials;
-_Members must not steal or take materials or components from other members without permission. In addition, prototypes and projects must not be moved from where they are stored without the owner’s permission._
-  6. Treat the space with respect.
-_Members must not vandalise the space or its equipment, and must not deliberately damage the property of Farset Labs, of its members or of visitors._
+1. Keep their behaviour lawful;
+2. Employ common sense and restraint when working with machinery and electrical/power tools;
+   _If members have not used a piece of machinery before, they must be briefed on how to properly use it, to avoid personal injury and damage to property. In addition, common sense should be used when involved in projects, and uses of machinery must be safe and reasonable._
+3. Allow members and visitors to proceed with their work without harassment or interference;
+   _Members should not interfere or move others’ equipment or projects, unless they have been abandoned or the member has left the space. In addition, when a member asks for peace to work on their project uninterrupted, others should not bother them unless necessary._
+4. Comply to the relevant statutory requirements for health and safety;
+   _Members must be aware of the statutory requirements for working with power tools, electrics, electronics and mechanical equipment; these are available on request from Farset Labs. These requirements must be met before commencing work._
+5. Respect others’ work and materials;
+   _Members must not steal or take materials or components from other members without permission. In addition, prototypes and projects must not be moved from where they are stored without the owner’s permission._
+6. Treat the space with respect.
+   _Members must not vandalise the space or its equipment, and must not deliberately damage the property of Farset Labs, of its members or of visitors._
 
 -----------
 
@@ -44,9 +50,9 @@ _Members must not vandalise the space or its equipment, and must not deliberatel
 
 When members use tools in the space, they must observe and comply with several rules:
 
-  1. Power tools, electrical equipment and mechanical tools must not be used without prior safety briefing and instruction on usage;
-  2. Tools must only be used when it is safe to do so;
-  3. Tools brought by members to the space must be safe and compliant to relevant statutory requirements;
+1. Power tools, electrical equipment and mechanical tools must not be used without prior safety briefing and instruction on usage;
+2. Tools must only be used when it is safe to do so;
+3. Tools brought by members to the space must be safe and compliant to relevant statutory requirements;
 
 Portable electrical equipment brought by members must be PAT tested before use;
   4. Safety systems and fire-prevention systems must not be overpowered or disabled;
@@ -72,15 +78,15 @@ Failure to store property correctly may make it liable for abandoned status, giv
 
 In order to keep Farset Labs in good state and to make it an enjoyable and productive place to be, members are expected to contribute to the overall upkeep of the space and are expected to clean up after themselves.
 
-  * Members must tidy workbenches away after use, cleaning them down and returning any used equipment.
-  * Consumables must be returned to their storage areas after use.
-  * Communal kitchen, toilet and lounge areas should be kept clean and tidy.
-  * Spoiled food and waste should be disposed of accordingly.
-  * Wiring and cables must not be left trailing across the ground inside or outside Farset Labs.
-  * Electrical equipment should be powered down and unplugged after use.
-  * Power tools and electrical equipment should be returned to their original state after use, returning any bits, guards, settings and consumables to their correct positions or places.
-  * Members should not leave their personal belongings lying around; they should be properly stored.
-  * After messy work (stripping wires, sanding, etc), workbenches and floors should be vacuumed.
+* Members must tidy workbenches away after use, cleaning them down and returning any used equipment.
+* Consumables must be returned to their storage areas after use.
+* Communal kitchen, toilet and lounge areas should be kept clean and tidy.
+* Spoiled food and waste should be disposed of accordingly.
+* Wiring and cables must not be left trailing across the ground inside or outside Farset Labs.
+* Electrical equipment should be powered down and unplugged after use.
+* Power tools and electrical equipment should be returned to their original state after use, returning any bits, guards, settings and consumables to their correct positions or places.
+* Members should not leave their personal belongings lying around; they should be properly stored.
+* After messy work (stripping wires, sanding, etc), workbenches and floors should be vacuumed.
 
 Cleaning equipment is available from the main store for general housekeeping. Members will be rewarded for helping keep the space tidy and presentable.
 
@@ -88,10 +94,10 @@ Cleaning equipment is available from the main store for general housekeeping. Me
 
 Members should be aware that Farset Labs is a secure building and exercises access control to protect its members and its equipment. As such, members must **not**:
 
-  * Give keys or access cards to non-members or trade them between members;
-  * Give visitors access to areas they normally would not be allowed entry to;
-  * Allow unknown members of the public to roam the buildings or be unaccompanied in the building;
-  * Attempt to disable or circumvent security or access control systems.
+* Give keys or access cards to non-members or trade them between members;
+* Give visitors access to areas they normally would not be allowed entry to;
+* Allow unknown members of the public to roam the buildings or be unaccompanied in the building;
+* Attempt to disable or circumvent security or access control systems.
 
 Members should be aware that a building-wide [CCTV](cctv.md) system is in use, and will document any entry or exit to the building.
 
@@ -99,10 +105,10 @@ Members should be aware that a building-wide [CCTV](cctv.md) system is in use, a
 
 Members are required to pay for membership on an ongoing basis to be permitted access to Farset Labs and to avail of the resources given. For service to be guaranteed, and for projects to be protected and assisted, members must:
 
-  * Keep up-to-date with membership payments;
-  * Pay for consumables or additional fees in reasonable time;
-  * Be sparing of materials and not be wasteful or abusive of resources;
-  * Warn Farset Labs of any expected cashflow problems which would hinder payment.
+* Keep up-to-date with membership payments;
+* Pay for consumables or additional fees in reasonable time;
+* Be sparing of materials and not be wasteful or abusive of resources;
+* Warn Farset Labs of any expected cashflow problems which would hinder payment.
 
 Flexibility for payments will be upheld as much as is possible, but members who routinely fail to make payments or are consistently wasteful or abusive of resources may be asked to leave, or resources may be withdrawn.
 

@@ -17,4 +17,3 @@ nav_order: 1
 This device is the primary network controller for all Unifi Equipment, as well as providing remote administrative access, Wifi control and [VPN](../services/VPN.md) access.
 
 See [Unifi](../services/Unifi.md) for service configuration and access specifics
-

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Charitable Purposes
+parent: Policies
+---
+
 # Charitable Proposes
 
 * [Charity Commission NI registration page](https://www.charitycommissionni.org.uk/charity-details/?regId=102754&subId=0)

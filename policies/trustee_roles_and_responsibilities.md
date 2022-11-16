@@ -1,3 +1,9 @@
+---
+layout: default
+title: Trustee Roles and Responsibilities
+parent: Policies
+---
+
 # Farset Labs - Trustee Roles & Responsibilities
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**

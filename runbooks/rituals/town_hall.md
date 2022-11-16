@@ -1,3 +1,10 @@
+---
+layout: default
+title: Town Halls
+parent: Rituals
+grand_parent: Runbooks
+---
+
 # Town Halls
 
 ## Purpose 
@@ -13,7 +20,7 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 **NOTES**
 
 * Town Halls are Timeboxed to a maximum of 2 hours.
-  * It is the responsibility of the meeting chair to ensure discussion moves appropriatly within this constraint.
+  * It is the responsibility of the meeting chair to ensure discussion moves appropriately within this constraint.
 * Town Halls are 'Public'
   * Any individual from the wider Farset Labs community is welcome to contribute whether they are a current member or not, however, it is at the chairs' discretion how much time is allocated to discussions that are not primarily the concern of the operation of the charity or of the membership
 * Town Halls are for discussion and decisions, not reading or teaching.
@@ -21,13 +28,13 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 
 ## Pre-Event Timeline
 
-| When            | What                                                         | Who       |
-| --------------- | ------------------------------------------------------------ | --------- |
-| T-2Wks          | Update Google Calendar Link with link to collaborative Agenda document | Secretary |
+| When            | What                                                                                                                        | Who       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------- | --------- |
+| T-2Wks          | Update Google Calendar Link with link to collaborative Agenda document                                                      | Secretary |
 | T-2Wks          | Create signposting Twitter/Facebook/Slack/Instagram posts to point to collaborative Agenda document and Teleconference Link | Secretary |
-| Thursday Before | Write/Update/Collate Finance report and submit to Board      | Treasurer |
-| Thursday Before | Write/Update/Collate Executive report and submit to Board    | Chair     |
-| Friday Before   | Review and Distribute Agenda including Reports               | Secretary |
+| Thursday Before | Write/Update/Collate Finance report and submit to Board                                                                     | Treasurer |
+| Thursday Before | Write/Update/Collate Executive report and submit to Board                                                                   | Chair     |
+| Friday Before   | Review and Distribute Agenda including Reports                                                                              | Secretary |
 
 ## General Agenda
 
@@ -62,9 +69,9 @@ Town Hall summaries intended for members (tl;dr where possible), and should be r
 
 ## Post-Event Checklist
 
-| When   | What                                                         | Who       |
-| ------ | ------------------------------------------------------------ | --------- |
-| T+1day | Collate agenda minutes and distribute                        | Secretary |
+| When   | What                                                                                | Who       |
+| ------ | ----------------------------------------------------------------------------------- | --------- |
+| T+1day | Collate agenda minutes and distribute                                               | Secretary |
 | T+1day | Collate action items from minutes and attach to appropriate task management systems | Secretary |
 
 

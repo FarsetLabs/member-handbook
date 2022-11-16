@@ -1,3 +1,11 @@
+---
+layout: default
+title: Reserves
+parent: Policies
+---
+
+# Reserves
+
 ## Our Beneficiaries
 
 The Objects and Beneficiaries of Farset Labs are codified in our [Charitable Aims](charitable_purposes.md), however, to summarise:

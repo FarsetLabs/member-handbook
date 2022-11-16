@@ -12,10 +12,10 @@ nav_order: 5
 
 ## Hotdesking Space
 
-| Attribute       | Value                                                        | Note                                                         |
-| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Location        | Hotdesk > Wall behind kitchen                                |                                                              |
-| Model Number    | HP LaserJet Pro 200 color MFP M276n                          |                                                              |
+| Attribute       | Value                                                        | Note                                                           |
+| --------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
+| Location        | Hotdesk > Wall behind kitchen                                |                                                                |
+| Model Number    | HP LaserJet Pro 200 color MFP M276n                          |                                                                |
 | Cartridge Types | [HP 131X](https://smile.amazon.co.uk/gp/product/B07CPHNJL9/) | Notify #facilities if running low. Toner lives under the desk. |
 
 ![img](img\hotdesk_printer.jpg)

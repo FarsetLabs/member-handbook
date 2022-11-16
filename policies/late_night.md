@@ -1,3 +1,11 @@
+---
+
+layout: default
+title: Late Night
+parent: Policies
+
+---
+
 # Late Night Policy
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**

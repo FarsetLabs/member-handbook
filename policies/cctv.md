@@ -1,4 +1,10 @@
-# CCTV Policy and Procedures    
+---
+layout: default
+title: CCTV Policies and Procedures
+parent: Policies
+---
+
+# CCTV Policy and Procedures
 
 Last Updated: **NOT CURRENTLY RATIFIED  POLICY OF FARSET LABS**
 

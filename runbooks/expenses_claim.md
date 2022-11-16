@@ -1,3 +1,9 @@
+---
+layout: default
+title: Making an Expense Claim
+parent: Runbooks
+---
+
 # Expense Claim Guidelines
 
 - Approval for purchases/travel must be obtained under the conditions of the [Financial Management Policy](../../policies/financial_management.md) in advance.
@@ -12,7 +18,7 @@
 - Receipts from personal expenses must be photographed and entered into Xero using the Expenses Claim procedure.
   [Expenses step by step guide](https://help.xero.com/uk/Payments_ExpenseClaims)
 - All photographs of receipts must be clear, and show the entire face of the receipt. If there are terms and conditions on the reverse of the receipt, this must also be photographed.
-- On submission of an expenses claim, an email notification should be sent to admin@farsetlabs.org.uk (There is no automatic notification in Xero)
+- On submission of an expenses claim, an email notification should be sent to treasurer@farsetlabs.org.uk (There is no automatic notification in Xero)
 - Expenses claims may not be approved on Xero by the person submitting them.
 - If an expenses claim is submitted correctly, then on receipt of an email notification Farset Labs will endeavour to repay approved expenses within seven days.
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Banned Materials and Equipment
+parent: Policies
+---
+
 # Banned Materials and Equipment
 
 Most materials and equipment is allowed in Farset Labs. However, to protect the space and the safety of its members, members must not bring the following items onto Farset Labs property, or to Farset Labs events hosted elsewhere:
