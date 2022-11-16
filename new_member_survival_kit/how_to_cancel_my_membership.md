@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to cancel my memberhsip
+title: How to cancel my membership
 parent: New Member Survival Kit
 ---
 
