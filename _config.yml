@@ -4,6 +4,14 @@ title: Member Handbook
 
 color_scheme: light
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: purple
+
 gh_edit_link: true
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_repository: "https://github.com/farsetlabs/member-handbook"
