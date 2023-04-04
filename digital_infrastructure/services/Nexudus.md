@@ -20,8 +20,12 @@ Resources _can_ be booked but this requires entering your Nexudus username and p
 
 ### Registered Devices
 
-6c64dc4-9b57a39a : Event Space
-e772bc96-b18cc64c : McKee Meeting Room
+|Device ID | Resource|
+| - | - |
+| 6c64dc4-9b57a39a | Event Space |
+| e772bc96-b18cc64c | McKee Room |
+
+
 
 ### Onboarding a new device
 
