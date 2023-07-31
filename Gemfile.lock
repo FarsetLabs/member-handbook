@@ -274,6 +274,7 @@ GEM
 
 PLATFORMS
   x64-mingw32
+  x86_64-darwin-22
   x86_64-linux
 
 DEPENDENCIES
@@ -284,4 +285,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.4.10
