@@ -51,7 +51,7 @@ The following is the text for the laminated printout to be displayed beside the 
 
 # Safety Instructions
 
-<p style="text-align: center;">##Fox Alien Masuter CNC Router</p>
+<p style="text-align: center;">## Fox Alien Masuter CNC Router</p>
 
 * Only authorised users are permitted to operate the machine
 * Read the user manual
@@ -68,7 +68,7 @@ The following is the text for the laminated printout to be displayed beside the 
 * Check for obstructions in the working area before use
 * Leave the machine isolated and tidy after use
 
-<p style="text-align: center;">#The Greatest Dangers</p>
+<p style="text-align: center;"># The Greatest Dangers</p>
 
 * Fingers!
 * The engraving bit breaking and striking your eye!
