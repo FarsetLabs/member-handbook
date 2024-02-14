@@ -14,7 +14,7 @@ The following are the instructional steps that need to be completed as part of t
 
 ## Basic Safety Rules
 
-- Uncured resin is toxic. Wear protective gloves, protective goggles, a mask and lab coat when working with the resin printer. Always have the extractor fan running on the fume cupboard. This will make sure that you don't come into contact with the resin, either through skin contact or through inhalation.
+- Uncured resin is toxic. Wear protective gloves, protective goggles, a mask and lab coat when working with the resin printer, uncured resin or when post-processing prints. Always have the fume cupboard extractor fan running. This will make sure that you don't come into contact with the resin, either through skin contact or through inhalation.
 - Make sure to clean all equipment with isopropyl alcohol before and after use. If something has liquid resin on it, it needs cleaned with blue roll and isopropyl alcohol.
 - Anything disposable used in the process of using the resin printer must be disposed of in the hazardous materials bin (e.g. blue roll, gloves, etc.)
 - Close open bottles as soon as possible to prevent spillage. This includes both resin and isopropyl alcohol.
